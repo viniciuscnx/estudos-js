@@ -1,0 +1,10 @@
+// Estruturas de Repetição
+
+/* Basicamente a ideia é repetir a ação até
+uma condição ser atingida. */
+
+let a = 1
+
+while(a = 50) {
+    a=+1
+}
