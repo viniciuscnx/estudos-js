@@ -34,3 +34,19 @@ Semelhante ao while, mas não usado.
 Método não muito utilizado. 
 [o while e for (majoritariamente) são mais
 usados!] */
+
+
+/* comando 'for'
+É semelhante ao while, porém mais simples de ser
+utilizada */
+
+// Exemplo 01
+
+for(let i = 0; i < 100; i = i + 3) {
+    console.log(`A soma de i com 2 é: ${i + 2}`)
+}
+
+// Exemplo 02 
+for(let h = 3; h < 50; h = h + 1) {
+    console.log(`Contador de 3 a 50: ${h}`)
+}
